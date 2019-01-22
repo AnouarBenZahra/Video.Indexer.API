@@ -1,0 +1,10 @@
+C:\Users\Anouar BEN ZAHRA\Source\repos\Video.Indexer\Video.Indexer\bin\Debug\Video.Indexer.dll
+C:\Users\Anouar BEN ZAHRA\Source\repos\Video.Indexer\Video.Indexer\bin\Debug\Video.Indexer.pdb
+C:\Users\Anouar BEN ZAHRA\Source\repos\Video.Indexer\Video.Indexer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anouar BEN ZAHRA\Source\repos\Video.Indexer\Video.Indexer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Anouar BEN ZAHRA\Source\repos\Video.Indexer\Video.Indexer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anouar BEN ZAHRA\Source\repos\Video.Indexer\Video.Indexer\obj\Debug\Video.Indexer.csprojAssemblyReference.cache
+C:\Users\Anouar BEN ZAHRA\Source\repos\Video.Indexer\Video.Indexer\obj\Debug\Video.Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Anouar BEN ZAHRA\Source\repos\Video.Indexer\Video.Indexer\obj\Debug\Video.Indexer.csproj.CopyComplete
+C:\Users\Anouar BEN ZAHRA\Source\repos\Video.Indexer\Video.Indexer\obj\Debug\Video.Indexer.dll
+C:\Users\Anouar BEN ZAHRA\Source\repos\Video.Indexer\Video.Indexer\obj\Debug\Video.Indexer.pdb
